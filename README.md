@@ -52,7 +52,7 @@ cd seattle-health-alerts
 pip install -r requirements.txt
 ```
 
-## 📊 Data Sources (examples)  
+## 📊 Data Sources (planned)  
 
 - [Public Health – Seattle & King County](https://kingcounty.gov/depts/health.aspx)  
 - [Washington State Department of Health](https://doh.wa.gov/)  
