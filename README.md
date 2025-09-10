@@ -50,3 +50,35 @@ cd seattle-health-alerts
 
 # Install dependencies (backend example)
 pip install -r requirements.txt
+```
+
+## 📊 Data Sources (examples)  
+
+- [Public Health – Seattle & King County](https://kingcounty.gov/depts/health.aspx)  
+- [Washington State Department of Health](https://doh.wa.gov/)  
+- [CDC Data & Statistics](https://data.cdc.gov/)  
+
+*(This list will grow as the project develops; add specific APIs/feeds you use here.)*  
+
+---
+
+## 🤝 Contributing  
+
+Contributions are welcome!  
+
+- Check the [Issues](../../issues) tab for open tasks.  
+- Submit a pull request with clear commit messages.  
+- Please follow the [Code of Conduct](CODE_OF_CONDUCT.md).  
+
+---
+
+## 📜 License  
+
+This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.  
+
+---
+
+## 🌟 Acknowledgments  
+
+- Open data provided by public health organizations  
+- Community contributors and civic tech volunteers  
