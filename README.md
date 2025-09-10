@@ -58,8 +58,6 @@ pip install -r requirements.txt
 - [Washington State Department of Health](https://doh.wa.gov/)  
 - [CDC Data & Statistics](https://data.cdc.gov/)  
 
-*(This list will grow as the project develops; add specific APIs/feeds you use here.)*  
-
 ---
 
 ## 🤝 Contributing  
