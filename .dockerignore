@@ -1,0 +1,49 @@
+# ======================
+# Node / React
+# ======================
+node_modules/
+frontend/build/
+frontend/.env
+frontend/.env.local
+frontend/.env.development.local
+frontend/.env.test.local
+frontend/.env.production.local
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# ======================
+# Python / FastAPI
+# ======================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+backend/venv/
+backend/env/
+backend/*.env
+*.log
+
+# ======================
+# Docker / Volumes
+# ======================
+postgres_data/
+*.pid
+*.sock
+
+# ======================
+# IDE / OS
+# ======================
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# ======================
+# Misc / Temp
+# ======================
+coverage/
+*.cover
+*.pytest_cache/
+*.mypy_cache/
